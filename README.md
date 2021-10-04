@@ -3,3 +3,5 @@ Justicia Ambiental México es una plataforma donde puedes encontrar las injustic
 
 Sección Mapa Ambiental de la Justicia
 Puedes encontrar información sobre diferentes injusticias ambientales por estado en México y puedes ver los diferentes problemas en nuestro país.
+
+Link de la pagina del proyecto: https://injusticiasocialmexico.azurewebsites.net
