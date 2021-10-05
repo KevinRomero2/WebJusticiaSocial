@@ -1,6 +1,21 @@
 # WebJusticiaSocial
 Justicia Ambiental México es una plataforma donde puedes encontrar las injusticias ambientales en México a través de la sección de mapas de injusticias ambientales. Además, contamos con una sección de animación y análisis de datos donde presentamos animaciones de imágenes satelitales y análisis de datos de dos regiones diferentes de México para hacer una comparación y obtener conclusiones para saber si existe una justicia ambiental. La información que tenemos no es suficiente, por eso creamos un foro donde las personas que conocen las injusticias ambientales puedan actuar y publicar sus denuncias. Seguimos las redes sociales a través de la sección de Noticias Injusticia Social para saber dónde hay más injusticias ambientales.
 
+
+## Recursos de Azure utilizados para el proyecto
+
+### App Service
+Utilizamos el servicio de App Service para instalar nuestra página web de WordPress en Azure de una manera muy sencilla y así poder editar nuestra página web y hostearla desde Azure.
+![image](https://user-images.githubusercontent.com/88946816/135946532-c72409f9-1410-4af6-b6c7-8b8e9f5ab48a.png)
+
+
+### Logics Apps Y Text Analytics
+Utilizamos el servicio de Logics Apps de Azure para buscar entre los tweets que contienen un hashtag y luego hacer un análisis de texto para determinar el sentimiento del texto con text analytics y luego publicarlo en nuestra cuenta de Twitter, y luego insertar el feed de Twitter en nuestra página para estar actualizados con las últimas noticias sobre justicia ambiental.
+![image](https://user-images.githubusercontent.com/88946816/135945823-eea92aff-88de-4b93-b4b4-779ff2f260ae.png)
+
+![image](https://user-images.githubusercontent.com/88946816/135946297-97332f95-3561-46f2-985f-b9157e661b4d.png)
+
+
 ## Nuestras secciones 
 
 ### Inicio
